@@ -1,0 +1,1 @@
+Characters/Personas and Illustrations originally used by @flyingzumwalt in [Storing Data Together: How the distributed web could bring a new Golden Age for Libraries](http://2017.code4lib.org/talks/How-the-distributed-web-could-bring-a-new-Golden-Age-for-Libraries) at [Code4Lib 2017](http://2017.code4lib.org/)
