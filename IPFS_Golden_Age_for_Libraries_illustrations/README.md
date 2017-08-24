@@ -3,7 +3,7 @@ These Characters/Personas and Illustrations created by Agata Krych http://agata.
 A sample of the illustrations:
 ![First page of illustrations](Golden_Age_for_Libraries_illustrations-01.png)
 
-[Full PDF Preview of all the vector artwork](Golden%20Age%20for%20Libraries%20illustrations.pdf)
+[Full PDF Preview of all the vector artwork](Golden_Age_for_Libraries_illustrations.pdf)
 
 These works are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
